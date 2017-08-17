@@ -1,4 +1,4 @@
-# this is wrong answer, need to update solution!
+# ambiguity in the question
 inp = []
 with open('TextFile1.txt','r') as file:
     for line in file:
